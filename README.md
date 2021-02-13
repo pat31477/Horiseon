@@ -44,10 +44,10 @@ The application should load with no issues or errors
 ![refactored website demo] (assets/demo-horiseon-website.jpg)
 
 ​
-[github pages site] https://pat31477.github.io/Code-Refractor/
+[github pages site] https://pat31477.github.io/Horiseon/
 
 ​
-[github repo site] https://github.com/pat31477/Code-Refractor
+[github repo site] https://github.com/pat31477/Horiseon.git
 
 
 Completed in collaboration with:
