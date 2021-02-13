@@ -41,7 +41,7 @@ All files have been uploaded to the github repository(see link below) and the ap
 The application should load with no issues or errors
 </p>
 ​
-[refactored website demo] Assests\demo-horiseon-website.jpg
+![refactored website demo] Assests\demo-horiseon-website.jpg
 
 ​
 [github pages site] https://pat31477.github.io/Horiseon/
@@ -52,7 +52,7 @@ The application should load with no issues or errors
 
 Completed in collaboration with:
 
-Jason Barnabell
+Jason Barbanel
 
 Takuya Matsumoto
 
